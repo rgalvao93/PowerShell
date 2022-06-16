@@ -1,0 +1,2 @@
+# PowerShell
+Tudo sobre PowerShell 👨🏿‍💻
